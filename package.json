@@ -1,0 +1,28 @@
+{
+  "name": "boltremitserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "@google-cloud/storage": "^1.2.1",
+    "@google-cloud/vision": "^0.12.0",
+    "auth0-js": "^8.8.0",
+    "body-parser": "^1.17.2",
+    "connect-ensure-login": "^0.1.1",
+    "connect-multiparty": "^2.0.0",
+    "mongoose": "^4.11.6",
+    "morgan": "^1.8.2",
+    "multer": "^1.3.0",
+    "passport": "^0.3.2",
+    "passport-auth0": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "textmagic-rest-client": "0.0.5",
+    "twilio": "^3.6.1"
+  }
+}
