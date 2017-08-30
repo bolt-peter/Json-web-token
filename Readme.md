@@ -1,1 +1,1 @@
-This branch is for development purpose. Switch to master branch if you want
+This branch is for production purpose. Switch to developing branch if you want
